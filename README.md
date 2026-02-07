@@ -31,8 +31,7 @@ It manages:
 StudentManagementSystem/
 ├── StudentManagementSystem.sln
 ├── src/
-│   └── StudentManagementSystem/
-│       ├── Program.cs
+│   └── ├── Program.cs
 │       ├── Student.cs
 │       ├── Course.cs
 │       ├── Instructor.cs
