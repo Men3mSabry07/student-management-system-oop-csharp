@@ -23,8 +23,11 @@ It manages:
 
 ---
 
+# Student Management System
+
 ## Project Structure
 
+```text
 StudentManagementSystem/
 ├── StudentManagementSystem.sln
 ├── src/
