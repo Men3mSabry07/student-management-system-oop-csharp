@@ -37,8 +37,4 @@ StudentManagementSystem/
 ├── README.md
 
 
----
 
-## Author
-
-El Alamy – Aspiring .NET Developer
