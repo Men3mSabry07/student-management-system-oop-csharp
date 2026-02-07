@@ -1,29 +1,27 @@
 # Student Management System (C# – OOP)
 
-A **console-based school management system** built in **C#** using **Object-Oriented Programming (OOP)**.
+A **console-based school management system** built in **C#** using **Object-Oriented Programming (OOP)** principles.  
+
+This project demonstrates how to manage **students, instructors, and courses** in memory without a database, while maintaining **clean code, separation of concerns, and OOP best practices**.
 
 ---
 
-## Project Overview
+## 🚀 Features
 
-This project simulates a **school environment** in memory (no database).  
-It manages:
+- Add/View Students, Courses, and Instructors
+- Enroll students in courses
+- Search students and courses by ID
+- Check if a student is enrolled in a specific course
+- Retrieve instructor name by course
+- Handles empty lists and invalid input gracefully
 
-- **Students**: add, view, search by ID, enroll in courses
-- **Courses**: add, view, link to instructors
-- **Instructors**: add, view
+**Technical Highlights:**
 
-**Key Points:**
+- Pure **OOP design**: Student, Instructor, Course, and SchoolStudentManager classes
+- **Separation of concerns**: Manager class handles data, Program.cs handles UI
+- **In-memory storage** using `List<T>`
+- Extra validations to prevent duplicates
 
-- Uses **OOP principles**: encapsulation, composition, and separation of concerns.
-- Includes **extra features**:
-  - Check if a student is enrolled in a specific course
-  - Return instructor by course name
-- Handles empty lists and invalid input gracefully.
-
----
-
-# Student Management System
 
 ## Project Structure
 
