@@ -27,14 +27,16 @@ It manages:
 
 StudentManagementSystem/
 ├── StudentManagementSystem.sln
-├── src/StudentManagementSystem/
-│ ├── Program.cs
-│ ├── Student.cs
-│ ├── Course.cs
-│ ├── Instructor.cs
-│ └── SchoolStudentManager.cs
+├── src/
+│   └── StudentManagementSystem/
+│       ├── Program.cs
+│       ├── Student.cs
+│       ├── Course.cs
+│       ├── Instructor.cs
+│       └── SchoolStudentManager.cs
 ├── README.md
 └── .gitignore
+
 
 
 **Note:** `.sln` is in the root for easy opening in Visual Studio.  
