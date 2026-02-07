@@ -28,26 +28,14 @@ This project demonstrates how to manage **students, instructors, and courses** i
 ```text
 StudentManagementSystem/
 ├── StudentManagementSystem.sln
-├── src/
+├── src/   ← Folder containing all source code
 │   └── ├── Program.cs
 │       ├── Student.cs
 │       ├── Course.cs
 │       ├── Instructor.cs
-│       └── SchoolStudentManager.cs
+│       └── SchoolStudentManager.cs  ← Manages students, courses, and instructors
 ├── README.md
 
-
-**Note:** `.sln` is in the root for easy opening in Visual Studio.  
-All code files and the project file are under `src/StudentManagementSystem/`.
-
----
-
-## How to Run
-
-1. Clone the repository
-2. Open `StudentManagementSystem.sln` in Visual Studio
-3. Build and run (`F5`)
-4. Use the console menu to interact with the system
 
 ---
 
