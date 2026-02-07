@@ -37,8 +37,6 @@ StudentManagementSystem/
 │       ├── Instructor.cs
 │       └── SchoolStudentManager.cs
 ├── README.md
-└── .gitignore
-
 
 
 **Note:** `.sln` is in the root for easy opening in Visual Studio.  
