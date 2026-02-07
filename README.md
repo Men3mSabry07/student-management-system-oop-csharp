@@ -6,7 +6,7 @@ This project demonstrates how to manage **students, instructors, and courses** i
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add/View Students, Courses, and Instructors
 - Enroll students in courses
